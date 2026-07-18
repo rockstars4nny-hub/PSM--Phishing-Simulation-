@@ -51,6 +51,8 @@ Generated during independent research on Anthropic's Claude models (Opus 4.6, Op
 
 MIT — Free for defensive security research and authorized testing.
 
+Send dm to @Aetherverse_Intel on X to get the tool.
+
 ---
 
 **Author:** D.T. Nixon | AIP (The Aetherverse Intelligence Protocol)
